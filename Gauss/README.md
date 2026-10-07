@@ -12,7 +12,7 @@ Métodos Numéricos
 
 ## Archivos
 - `src/Ecuaciones_lineales/`: Código fuente del programa.
-- `ejecución_metodos.`: Captura de pantalla de la prueba ejecutada.
+- `ejecucion.png`: Captura de pantalla de la prueba ejecutada.
 
 ## Cómo ejecutar
 1. Abrir el proyecto en IntelliJ IDEA.
@@ -23,7 +23,7 @@ Métodos Numéricos
 - **Salida:** Solución del sistema de ecuaciones obtenida en la consola.
 
 ## Evidencia
-[Ejecución del programa](ejecucion_metodos.)
+![Ejecución del programa](ejecucion.png)
 
 ## Referencias
 Material y apuntes de la materia Métodos Numéricos.
