@@ -23,7 +23,7 @@ Métodos Numéricos
 - **Salida:** Solución del sistema de ecuaciones obtenida en la consola.
 
 ## Evidencia
-![Ejecución del programa](ejecucion.png)
+[Ejecución del programa](ejecucion.png)
 
 ## Referencias
 Material y apuntes de la materia Métodos Numéricos.
