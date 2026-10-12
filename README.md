@@ -12,18 +12,19 @@ Implementación en Java del algoritmo de **Gauss_Jordan** utilizando programaci�
 ## Ejecución
 Para correr el programa, abra el proyecto en IntelliJ IDEA y ejecute directamente la clase principal **`LanzadorGaussJordan.java`** utilizando el botón de ejecución.
 
-## Ejemplo de Prueba y Salida en Consola
 Matriz aumentada inicial:
-[       3.00      -0.10      -0.20 |       7.85 ]
-[       0.10       7.00      -0.30 |     -19.30 ]
-[       0.30      -0.20      10.00 |      71.40 ]
+3.0	-0.1	-0.2	7.85	
+0.1	7.0	-0.3	-19.3	
+0.3	-0.2	10.0	71.4	
 
 Matriz despues de Gauss-Jordan:
-[       1.00       0.00       0.00 |       3.00 ]
-[       0.00       1.00       0.00 |      -2.50 ]
-[       0.00       0.00       1.00 |       7.00 ]
+1.0	0.0	0.0	3.0	
+0.0	1.0	0.0	-2.5	
+0.0	0.0	1.0	7.000000000000002	
 
 Soluciones del sistema:
 x1 = 3.0
 x2 = -2.5
 x3 = 7.000000000000002
+```
+
