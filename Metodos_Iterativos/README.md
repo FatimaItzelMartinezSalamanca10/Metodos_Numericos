@@ -20,7 +20,7 @@ x + 2y + 5z = 8
 
 ## Estructura Modular del Proyecto
 
-El código fuente está organizado bajo el paquete Metodos respetando la separación de responsabilidades en tres clases principales:
+El código fuente está organizado bajo el paquete Metodos_Iterativos respetando la separación de responsabilidades en tres clases principales:
 
 1. DefinicionSistema.java (Módulo 1): Almacena la matriz de coeficientes A, el vector independiente b, el vector de aproximación inicial y la tolerancia establecida.
 2. MetodosIterativos.java (Módulo 2): Contiene la lógica matemática para calcular las iteraciones mediante el Método de Jacobi (con vector auxiliar) y el Método de Gauss-Seidel (con actualización inmediata de variables).
