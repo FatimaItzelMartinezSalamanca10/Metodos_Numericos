@@ -86,22 +86,36 @@ Intervalo: [0, 2]
 Tolerancia objetivo: 0.00010
 
 --- ITERACIONES (TRAPECIO COMPUESTO) ---
+
 n = 2   | Integral = 5.0000000000
+
 n = 4   | Integral = 4.2500000000 | Error = 0.7500000000
+
 n = 8   | Integral = 4.0625000000 | Error = 0.1875000000
+
 n = 16  | Integral = 4.0156250000 | Error = 0.0468750000
+
 n = 32  | Integral = 4.0039062500 | Error = 0.0117187500
+
 n = 64  | Integral = 4.0009765625 | Error = 0.0029296875
+
 n = 128 | Integral = 4.0002441406 | Error = 0.0007324219
+
 n = 256 | Integral = 4.0000610352 | Error = 0.0001831055
+
 n = 512 | Integral = 4.0000152588 | Error = 0.0000457764
 
+
 --- ITERACIONES (SIMPSON 1/3 COMPUESTO) ---
+
 n = 2 | Integral = 4.0000000000
+
 n = 4 | Integral = 4.0000000000 | Error= 0.0000000000
+
 
 --- ANALISIS DE RESULTADOS FINALES ---
 Aproximacion Trapecio: 4.0000152588 | n = 512
+
  Aproximacion Simpson : 4.0000000000 | n = 4
 
 Process finished with exit code 0
