@@ -1,6 +1,6 @@
-***Métodos Numéricos: Interpolación Polinómica***
+**Métodos Numéricos: Interpolación Polinómica**
 
-**+Resumen de la Práctica***
+**Resumen de la Práctica**
 
 Este proyecto realiza un análisis comparativo entre la Interpolación de Lagrange y el Método de Diferencias Divididas de Newton. Ambos algoritmos procesan el mismo conjunto de nodos discretos para determinar la aproximación polinomial en un punto específico.
 
@@ -15,7 +15,7 @@ src/
     └── InterpolacionNewton.java    # Matriz de diferencias y polinomio de Newton
 
 
-***Descripción de Componentes***
+**Descripción de Componentes**
 
 Clase / Fichero                Responsabilidad Principal
 
