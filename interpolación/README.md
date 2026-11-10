@@ -55,9 +55,9 @@ Valor analítico real: {f(3.0) = 3^2 + 1 = 10.0
 
 ***Resultado de Ejecución en Consola***
 
-=====================================================
+===========================
             SISTEMA DE INTERPOLACIÓN NUMÉRICA
-=====================================================
+============================
 
 --- TABLA DE DIFERENCIAS DIVIDIDAS ---
 x_i     f[x_i]  Orden 1 Orden 2 
