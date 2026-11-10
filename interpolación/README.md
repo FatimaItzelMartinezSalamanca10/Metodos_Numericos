@@ -9,9 +9,13 @@ Este proyecto realiza un análisis comparativo entre la Interpolación de Lagran
 El paquete interpolacion está compuesto por tres componentes principales:
 
 src/
+
 └── interpolacion/
+
     ├── Main.java                   # Punto de entrada y orquestador del flujo
+    
     ├── InterpolacionLagrange.java  # Implementación del polinomio de Lagrange
+    
     └── InterpolacionNewton.java    # Matriz de diferencias y polinomio de Newton
 
 
