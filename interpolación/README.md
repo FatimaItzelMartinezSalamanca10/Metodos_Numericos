@@ -21,17 +21,17 @@ src/
 
 **Descripción de Componentes**
 
-Clase / Fichero                Responsabilidad Principal
+Clase                                                           Responsabilidad Principal
 
 
-Main.java                      Define los arreglos de datos (x, y), ejecuta ambos métodos y presenta la evaluación comparativa.
+Main.java                                                       Define los arreglos de datos (x, y), ejecuta ambos métodos y presenta la evaluación comparativa.
 
 
-InterpolacionLagrange.java     Valida consistencia de nodos y calcula el resultado evaluando los productos de bases L_i(x).
+InterpolacionLagrange.java                                      Valida consistencia de nodos y calcula el resultado evaluando los productos de bases L_i(x).
 
 
 
-InterpolacionNewton.java       Construye la matriz triangular de diferencias divididas, extrae coeficientes a_k e imprime el resultado.
+InterpolacionNewton.java                                        Construye la matriz triangular de diferencias divididas, extrae coeficientes a_k e imprime el resultado.
 
 
 
