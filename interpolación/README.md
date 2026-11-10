@@ -80,5 +80,4 @@ El valor estimado en x = 3.00 es P(3.00) = 10.0000
 ***Guía de Compilación y Uso***
 
 Ejecutar la clase Main.java.
-# Ejecutar el programa principal
-java -cp out interpolacion.Main
+
