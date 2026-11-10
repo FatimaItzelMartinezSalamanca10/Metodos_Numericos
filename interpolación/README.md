@@ -78,7 +78,5 @@ El valor estimado en x = 3.00 es P(3.00) = 10.0000
 Ejecutar la clase Main.java.
 
 Opción 2: Línea de Comandos (Terminal)
-
-# Compilar los archivos hacia la carpeta 
 # Ejecutar el programa principal
 java -cp out interpolacion.Main
