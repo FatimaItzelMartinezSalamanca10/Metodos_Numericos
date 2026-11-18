@@ -10,7 +10,7 @@ Metodos_Numericos_U5
 
 ├── Reporte
 
-└── Regresion-Lineal
+└── Regresion-Lineal/
 
     └── src/
     
