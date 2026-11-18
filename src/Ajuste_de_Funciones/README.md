@@ -3,14 +3,23 @@
 ​Práctica correspondiente a la Tarea 2 de la Unidad 5 de Métodos Numéricos. Este proyecto implementa en Java el método de mínimos cuadrados para ajustar una recta a un conjunto de cinco pares de coordenadas (x, y), calculando además el coeficiente de correlación lineal de Pearson (r), el coeficiente de determinación (r^2) y realizando una interpolación lineal para estimar el valor de y cuando x = 3.5.
 ​**Estructura del Proyecto**
 ​El código fuente está organizado dentro del paquete Ajuste_de_Funciones con la siguiente distribución:
-Metodos_Numericos_U5/
+
+Metodos_Numericos_U5
+
 ├── README.md
+
 ├── Reporte
-└── Regresion-Lineal/
+
+└── Regresion-Lineal
+
     └── src/
+    
         └── Ajuste_de_Funciones/
+        
             ├── Main.java
+            
             └── RegresionLineal.java
+            
 Main.java: Contiene los arreglos con los datos de prueba (datosX y datosY), invoca los cálculos estadísticos y muestra la estimación interpolada para x = 3.5.
 ​RegresionLineal.java: Realiza el recorrido de sumatorias, determina la ordenada al origen (β0) y la pendiente (β1), calcula los indicadores r y r^2, e incluye el método predecir.
 ​
