@@ -23,7 +23,9 @@ Metodos_Numericos_U5
 Main.java: Contiene los arreglos con los datos de prueba (datosX y datosY), invoca los cálculos estadísticos y muestra la estimación interpolada para x = 3.5.
 ​RegresionLineal.java: Realiza el recorrido de sumatorias, determina la ordenada al origen (β0) y la pendiente (β1), calcula los indicadores r y r^2, e incluye el método predecir.
 ​
+
 ***Requisitos y Ejecución***
+
 
 ​Para compilar y ejecutar el programa localmente se necesita Git y Java JDK 21 (o superior) configurados en el sistema. No requiere librerías externas.
 
